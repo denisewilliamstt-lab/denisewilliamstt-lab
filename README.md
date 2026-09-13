@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Denise 👋🏾
 
-<!--
-**denisewilliamstt-lab/denisewilliamstt-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Aspiring Cybersecurity Analyst
 
-Here are some ideas to get you started:
+I’m transitioning from culinary leadership into cybersecurity, bringing years of experience in problem-solving, operations, teamwork, and performing calmly in high-pressure environments.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m currently developing practical skills in security operations, Linux, SQL, network security, incident response, risk management, and security automation.
+
+### 🔐 What I’m Working On
+
+* Studying for the CompTIA Security+ certification
+* Building hands-on cybersecurity labs
+* Developing my cybersecurity portfolio
+* Exploring security automation
+* Learning how cybersecurity can support small businesses through Vizion Labs
+
+### 🧰 Skills I’m Developing
+
+* Linux
+* SQL
+* Network security
+* Incident detection and response
+* Security risk assessment
+* Python
+* Security automation
+* Technical documentation
+
+### 📁 Featured Projects
+
+Projects and hands-on labs are coming soon.
+
+### 🌱 Current Goal
+
+My goal is to begin working as a cybersecurity analyst while continuing to build practical experience and certifications.
+
+### 📫 Connect With Me
+
+More contact information coming soon.
